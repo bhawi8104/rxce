@@ -165,7 +165,7 @@ if(expirydate>today):
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
             
-        else:
+       
             _ = system('clear')
     code="MRP1"
     test="chumma4"
