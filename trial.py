@@ -167,9 +167,5 @@ if(expirydate>today):
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
             
-        else:
-            clear()
-            banner='figlet RXCE'
-            system(banner)
-            print("Incorrect Activation Code :")
+       
      
