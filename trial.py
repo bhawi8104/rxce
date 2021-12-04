@@ -31,7 +31,7 @@ def hero():
         t.start()
 
         #long process here
-        time.sleep(20)
+        time.sleep(5)
         done = True
 
     def chalo1():
@@ -50,7 +50,7 @@ def hero():
         t.start()
 
         #long process here
-        time.sleep(20)
+        time.sleep(5)
         done = True
 
     def clear():
@@ -222,7 +222,7 @@ else:
             #print("Please play on the given time, and ")
             #print("If you think it is an error contact")
             #print("wait.... starting....")
-            time.sleep(20)
+            time.sleep(5)
             period=410
             hero()
             period("Sorry too many people(>20) using hack in same time ")
