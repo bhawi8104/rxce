@@ -202,7 +202,7 @@ else:
             print("If you think it is an error contact")
             print("wait.... starting....")
             time.sleep(20)
-            period=159
+            period=183
             hero()
             #print("Today Server is off because I am out ")
             #rint(" of town, Tomorrow It will work as usual.")
