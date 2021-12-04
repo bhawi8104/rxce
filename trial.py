@@ -165,12 +165,6 @@ if(expirydate>today):
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
             
-       else:
-    def clear():
-        # for windows
-        if name == 'nt':
-            _ = system('cls')
-        # for mac and linux(here, os.name is 'posix')
         else:
             _ = system('clear')
     code="MRP1"
