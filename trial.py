@@ -165,35 +165,7 @@ if(expirydate>today):
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
             
-       
-            _ = system('clear')
-    code="MRP1"
-    test="chumma4"
-    #nextday="NITESH9013"
-    banner='figlet RXCE'
-    system(banner)
-    print("*---------*----------*-------------*----------*")
-    print("Your hack has expired--- Please contact")
-    print(" on telegram ----@smsn_knt for activating")
-    print(" Recharge Amount :        Total limit " )
-    print(" 1.     1000 INR -------  1 Day (30 Games")
-    print(" 2.     5000 INR -------  7 Days(210 Games")
-    print("*---------*----------*-------------*----------*")
-    print("Your custom hack can be made request from us.")
-    print("Beware of fraudsters!!!")
-    while(True):
-        print("My banking name is SUNNY KUMAR")
-        print("If you send to any other name , then IT IS SCAMMM")
-        print("--------*--------*----------*---------")
-        print("send payment only to SUNNY KUMAR ")
-        print("payhere--- UPI : ")
-        print("UPI1 : mdurth@ybl")
-        print("UPI2 : sunnyk16@fbl")
-        print("If you have already paid to above UPI")
-        print("Please Enter your 12 Digit \n UPI reference number ")
-        print("or please Enter Correct activation code for 8:30 PM ")
-        bhai=input(": ")
-        if(bhai==code or bhai==test):
+    if(): 
             clear()
             print("----------Your play time-----------")
             print("3rd Dec 2021, 02:30 PM- 03:00 PM")
@@ -212,27 +184,6 @@ if(expirydate>today):
             #print(" 4000 INR , because in this week 2 days off " )
             #print("Thank You!! ")
             sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
-        elif(bhai==nextday or bhai==nexday1):
-            clear()
-            banner='figlet RXCE'
-            system(banner)
-            print("----------Your play time-----------")
-            #print("8th-14th Nov 2021, 02:30 PM- 03:00 PM")
-            #print("8th-14th Nov 2021, 06:00 PM- 06:30 PM")
-            #print("8th-14th Nov 2021, 08:30 PM- 09:00 PM")
-            #print("Please play on the given time, and ")
-            #print("If you think it is an error contact")
-            #print("wait.... starting....")
-            time.sleep(20)
-            period=420
-            hero()
-            period("Sorry too many people(>20) using hack in same time ")
-            sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
             
-            
-        else:
-            clear()
-            banner='figlet RXCE'
-            system(banner)
-            print("Incorrect Activation Code :")
+        
      
