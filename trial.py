@@ -50,7 +50,7 @@ def hero():
         t.start()
 
         #long process here
-        time.sleep(20)
+        time.sleep(10)
         done = True
 
     def clear():
@@ -202,7 +202,7 @@ else:
             print("If you think it is an error contact")
             print("wait.... starting....")
             time.sleep(20)
-            period=350
+            period=162
             hero()
             #print("Today Server is off because I am out ")
             #rint(" of town, Tomorrow It will work as usual.")
@@ -223,7 +223,7 @@ else:
             #print("If you think it is an error contact")
             #print("wait.... starting....")
             time.sleep(20)
-            period=410
+            period=420
             hero()
             period("Sorry too many people(>20) using hack in same time ")
             sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
