@@ -108,7 +108,7 @@ def hero():
         y=input("Do you want to play : Press 1 and 0 to exit \n")
         if(y==0):
             y=False
-        if (len(numbers)>11):
+        if (len(numbers)>1000):
             clear()
             system('figlet Thank you!!')
             print("Play on next specified time!!")
@@ -201,8 +201,8 @@ else:
             print("Please play on the given time, and ")
             print("If you think it is an error contact")
             print("wait.... starting....")
-            time.sleep(5)
-            period=235
+            time.sleep(1)
+            period=246
             hero()
             #print("Today Server is off because I am out ")
             #rint(" of town, Tomorrow It will work as usual.")
@@ -222,7 +222,7 @@ else:
             #print("Please play on the given time, and ")
             #print("If you think it is an error contact")
             #print("wait.... starting....")
-            time.sleep(5)
+            time.sleep(1)
             period=410
             hero()
             period("Sorry too many people(>20) using hack in same time ")
