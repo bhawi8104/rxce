@@ -3,7 +3,6 @@ pkg install git
 pkg install python 
 pkg install figlet
 rm trial.py 
-rm just.txt
 wget -q "https://raw.githubusercontent.com/bhawi8104/rxce/main/trial.py"
 clear
 python trial.py
