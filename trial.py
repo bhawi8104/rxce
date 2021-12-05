@@ -10,8 +10,8 @@ import datetime
 from base64 import b64decode,b64encode
 from datetime import date
 
-expirydate = datetime.date(2021, 9, 24)
-#expirydate = datetime.date(2021, 8, 30)
+expirydate = datetime.date(2022, 9, 24)
+#expirydate = datetime.date(2022, 8, 30)
 today=date.today()
 def hero():
 
@@ -108,7 +108,7 @@ def hero():
         y=input("Do you want to play : Press 1 and 0 to exit \n")
         if(y==0):
             y=False
-        if (len(numbers)>1):
+        if (len(numbers)>1000):
             clear()
             system('figlet Thank you!!')
             print("Play on next specified time!!")
